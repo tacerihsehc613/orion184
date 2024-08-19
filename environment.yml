@@ -5,3 +5,16 @@ channels:
 dependencies:
   - xeus-python
   - ipycanvas
+  - pandas
+  - bqplot
+  - jupyterlab
+  - python
+  - ipycanvas
+  - ipywidgets
+  - folium
+  - numpy
+  - pillow
+  - pip
+  - pip:
+    - requests
+  
