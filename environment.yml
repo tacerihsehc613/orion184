@@ -5,3 +5,8 @@ channels:
 dependencies:
   - xeus-python
   - ipycanvas
+  - bqplot
+  - ipywidgets
+  - pip
+  - pip: 
+    - requests
