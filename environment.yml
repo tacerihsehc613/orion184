@@ -14,8 +14,8 @@ dependencies:
   - certifi
   - charset-normalizer
   - blinker
-  - pyarrow
   - pip
   - pip: 
     - requests
+    - pyarrow
     - streamlit
