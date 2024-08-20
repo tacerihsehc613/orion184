@@ -15,8 +15,7 @@ dependencies:
   - charset-normalizer
   - blinker
   - pip
-  - conda:
-    - pyarrow
+  - pyarrow
   - pip: 
     - requests
     - streamlit
