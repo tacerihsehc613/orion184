@@ -7,6 +7,12 @@ dependencies:
   - ipycanvas
   - bqplot
   - ipywidgets
+  - pandas
+  - numpy
+  - urllib3
+  - idna
+  - certifi
+  - charset-normalizer
   - pip
   - pip: 
     - requests
