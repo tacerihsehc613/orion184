@@ -13,6 +13,7 @@ dependencies:
   - idna
   - certifi
   - charset-normalizer
+  - blinker
   - pip
   - pip: 
     - requests
