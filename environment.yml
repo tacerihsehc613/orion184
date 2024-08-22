@@ -18,3 +18,4 @@ dependencies:
   - pip: 
     - requests
     - jupyter_server
+    - jupyter_core
