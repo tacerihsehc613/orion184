@@ -13,3 +13,5 @@ dependencies:
   - voila-material
   - pip:
     - jupyterlite-xeus-python
+    - voila
+    - voila-material
