@@ -15,8 +15,7 @@ dependencies:
   - charset-normalizer
   - blinker
   - jupyter_server
-  - jupyter_core
-  - websockets
   - pip
   - pip: 
     - requests
+    - jupyter_core
