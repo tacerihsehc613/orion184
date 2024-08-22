@@ -14,7 +14,6 @@ dependencies:
   - certifi
   - charset-normalizer
   - blinker
-  - websockets 
   - pip
   - pip: 
     - requests
