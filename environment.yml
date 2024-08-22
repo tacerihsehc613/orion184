@@ -14,10 +14,10 @@ dependencies:
   - certifi
   - charset-normalizer
   - blinker
-  - websockets
   - pip
   - pip: 
     - requests
     - jupyter_server
     - jupyter_core
+    - websockets
 
