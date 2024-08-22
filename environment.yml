@@ -20,4 +20,5 @@ dependencies:
     - jupyter_server
     - jupyter_core
     - voila
+    - voila-material
 
