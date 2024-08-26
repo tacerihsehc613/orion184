@@ -31,8 +31,8 @@ jobs:
         shell: bash -l {0}
         run: |
           cp README.md content
-          voici build --contents content --output-dir dist --apps lab --apps retro
-
+          voici build --contents content --output-dir dist
+        
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
