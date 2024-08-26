@@ -16,6 +16,7 @@ dependencies:
   - blinker
   - pip
   - pip: 
+    - js
     - requests
     - jupyter_server
     - jupyter_core
