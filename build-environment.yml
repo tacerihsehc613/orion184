@@ -13,7 +13,6 @@ dependencies:
   - voila-material
   - websockets
   - pip:
-    - jupyterlite-xeus-python
     - voila
     - voila-material
     - voici-core
