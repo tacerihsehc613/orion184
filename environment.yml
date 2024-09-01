@@ -21,7 +21,6 @@ dependencies:
     - requests
     - jupyter_server
     - jupyter_core
-    - asyncify
     - voila
     - voila-material
 
